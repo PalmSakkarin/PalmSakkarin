@@ -2,6 +2,9 @@
 <h1 align="center">สวัสดี 👋 ฉันชื่อ Sakkarin</h1>
 <h3 align="center">นักพัฒนาที่กระตือรือร้นจากประเทศไทย</h3>
 
+<h1 align="center">สวัสดี 👋 ฉันชื่อ Sakkarin</h1>
+<h3 align="center">นักพัฒนาที่กระตือรือร้นจากประเทศไทย</h3>
+
 <h3 align="left">เชื่อมต่อกับฉัน:</ h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/plam.sakkarin.3" target="blank"><img align=" ศูนย์" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook. com/plam.sakkarin.3" height="30" width="40" /></a>
