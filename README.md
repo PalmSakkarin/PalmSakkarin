@@ -2,8 +2,12 @@
 <h3 align="center">A passionate developer</h3>
 
 <hr>
-<img align="left" width="250" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
-<img align="right" width="250" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
+<div style="text-align: center;">
+  <img width="230" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
+  <img  width="230" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
+  <img  width="230" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
+  <img  width="230" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
+<div>
 
 
 
