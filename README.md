@@ -2,10 +2,12 @@
 <h3 align="center">A passionate developer</h3>
 
 <hr>
-<center>
+<div style="text-align:center !important;">
 <img width="300" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
-<img width="300" height="300" src="https://i.pinimg.com/originals/0e/8c/bb/0e8cbb36eb1684d16ca0932d655fadcb.gif"/>
-</center>
+<img width="300" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
