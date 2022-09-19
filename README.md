@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 
 <hr>
-<img src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
+<img align="center" width="300" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
