@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I’m Sakkarin 👋
 - 🔭 I’m currently working on Home
 - 🌱 I’m currently learning Javscript
 - 👯 I’m looking to collaborate on  Tets
