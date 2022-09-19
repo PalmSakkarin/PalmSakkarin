@@ -4,9 +4,6 @@
 <hr>
 <div style="text-align: center;">
   <img width="248" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
-  <img  width="248" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
-  <img  width="248" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
-  <img  width="248" height="300" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
 <div>
 
 
