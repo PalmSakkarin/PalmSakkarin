@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Home
+- 🌱 I’m currently learning Javscript
+- 👯 I’m looking to collaborate on  Tets
+- 🤔 I’m looking for help with  Tests
 <!--
 **PalmSakkarin/PalmSakkarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
