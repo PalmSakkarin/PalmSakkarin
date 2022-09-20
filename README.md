@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Palm</h1>
 <h3 align="center">A passionate developer</h3>
 
@@ -6,8 +8,6 @@
   <img width="400" height="400" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
   <img width="400" height="400" src="https://media2.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif"/>
 <div>
-
-
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
