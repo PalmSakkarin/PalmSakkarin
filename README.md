@@ -5,7 +5,7 @@
 
 <hr>
 <div style="text-align: center;">
-  <img width="400" height="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif"/>
+  <img width="450" height="300" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif"/>
 <div>
 
 <h3 align="left">Social Media:</h3>
