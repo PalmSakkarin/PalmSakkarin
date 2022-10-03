@@ -5,14 +5,17 @@
 
 <hr>
 <div style="text-align: center;">
- 
 <img width="300" height="300" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=82a1493bsfqtlbr9l2sv2va8s7kcr8y735n7uxifve487z1g&rid=200w.gif&ct=g"/>
 <div>
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://www.facebook.com/plam.sakkarin.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/plam.sakkarin.3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kriyasin_pm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kriyasin_pm/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/plam.sakkarin.3/" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/plam.sakkarin.3" height="30" width="40" />
+ </a>
+<a href="https://www.instagram.com/kriyasin_pm/" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kriyasin_pm/" height="30" width="40" />
+ </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
