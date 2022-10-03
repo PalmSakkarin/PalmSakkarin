@@ -5,7 +5,8 @@
 
 <hr>
 <div style="text-align: center;">
-  <img width="450" height="300" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif"/>
+ 
+<img width="450" height="300" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=82a1493bsfqtlbr9l2sv2va8s7kcr8y735n7uxifve487z1g&rid=200w.gif&ct=g"/>
 <div>
 
 <h3 align="left">Social Media:</h3>
